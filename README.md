@@ -1,4 +1,4 @@
-# TON Smart Contract Voting System Contest
+# Tact Smart Battle Contest
 
 This repository contains a series of smart contract implementations for a voting system on the TON blockchain. Each implementation represents a different level of complexity and functionality, building upon the previous versions.
 
